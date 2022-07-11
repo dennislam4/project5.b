@@ -19,7 +19,7 @@ class Taxicab:
         """Returns the x-coordinate."""
         return self._get_x_coord
 
-    def get_y_cord(self):
+    def get_y_coord(self):
         """Returns the y-coordinate."""
         return self._get_y_coord
 
